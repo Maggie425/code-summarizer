@@ -1,4 +1,4 @@
-# RepoGPT: AI-Powered GitHub Assistant 🚀
+ #Code Summarizer : AI-Powered GitHub Assistant 🚀
 
 [![License](https://img.shields.io/github/license/mbarinov/repogpt)](LICENSE)
 [![Version](https://img.shields.io/github/package-json/v/mbarinov/repogpt)](package.json)
